@@ -28,8 +28,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinRuiz&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
   
 ### Highlighted Projects:
-- **[MediaTik](https://dddtik.co/tiktok):** A website for downloading TikTok and Instagram videos without a watermark.
-- **[OlympusFace](https://dddtik.co:8043):** A facial recognition and registration demo website.
+- **[MediaTik](https://dddtik.co/):** A website for downloading TikTok and Instagram videos without a watermark.
+- **[OlympusFace]([https://dddtik.co:8043](https://sv-cbgkfyz3yv.cloud.elastika.pe:8043/):** A facial recognition and registration demo website.
 
 ### A Few Facts About Me:
 - 🎓 Graduated in Software Engineering
