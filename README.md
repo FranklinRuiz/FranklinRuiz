@@ -29,7 +29,7 @@
   
 ### Highlighted Projects:
 - **[MediaTik](https://dddtik.co/):** A website for downloading TikTok and Instagram videos without a watermark.
-- **[OlympusFace](https://sv-cbgkfyz3yv.cloud.elastika.pe:8043/):** A facial recognition and registration demo website.
+- **[OlympusFace](https://dddtik.co:8443/):** A facial recognition and registration demo website.
 
 ### A Few Facts About Me:
 - 🎓 Graduated in Software Engineering
