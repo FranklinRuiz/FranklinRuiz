@@ -28,10 +28,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinRuiz&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
   
 ### Highlighted Projects:
-- **[MediaTik TikTok](https://dddtik.co/tiktok):** A website for downloading TikTok videos without a watermark.
-- **[MediaTik Instagram](https://dddtik.co/instagram):** A website for downloading Instagram Reels.
-- **[MediaTik Facebook](https://dddtik.co/facebook):** A website for downloading Facebook Reels.
-- **[OlympusFace](https://dddtik.co:8443/):** A facial recognition and registration demo website.
+- **[Muyu TikTok](https://muyu.lat/tiktok):** A website for downloading TikTok videos without a watermark.
+- **[Muyu Instagram](https://muyu.lat/instagram):** A website for downloading Instagram Reels.
+- **[Muyu Facebook](https://muyu.lat/facebook):** A website for downloading Facebook Reels.
+- **[OlympusFace](https://muyu.lat:8443/):** A facial recognition and registration demo website.
 
 ### A Few Facts About Me:
 - 🎓 Graduated in Software Engineering
