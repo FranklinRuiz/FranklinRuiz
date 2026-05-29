@@ -1,66 +1,110 @@
-## 🚀 Hey there! I'm Franklin 👋
+<div align="center">
 
-### 🧑‍💻 About Me
-I'm a **Software Engineer** with extensive experience in **software development, cloud computing, and system architecture**. I specialize in designing and building scalable applications, optimizing performance, and integrating modern cloud-based solutions. I am passionate about **exploring generative AI**, leveraging cutting-edge technologies to enhance automation and decision-making processes.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Franklin%20Ruiz&fontSize=48&fontColor=ffffff&fontAlignY=65&desc=Solution%20Architect%20%7C%20Software%20Engineer%20%7C%20AI%20Builder&descSize=16&descAlignY=85&animation=fadeIn" width="100%"/>
 
-💡 **Key Expertise:** Software architecture, cloud platforms Azure, microservices, DevOps, AI-driven development, and full-stack engineering.
+<br/>
 
-🌍 **Currently Exploring:** Generative AI, AI-driven development, cloud security, and automation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Ruiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-ruiz-asto-leon/)
 
----
-
-### 🚀 Technical Skills
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats
-![Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranklinRuiz&show_icons=true&theme=midnight-purple)
+## 🧠 Who I Am
 
-### 🔥 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinRuiz&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+> *"I don't just write code — I design the systems that make code matter."*
 
----
+I'm a **Solution Architect & Software Engineer** passionate about **cloud-native systems**, **microservices**, and **Generative AI**. I love turning complex problems into clean, scalable solutions — and sharing what I build along the way.
 
-### 🌟 Featured Projects
-🚀 **Some of my exciting projects:**
-- 🔗 **[Muyu TikTok](https://muyu.lat/tiktok):** Download TikTok videos without a watermark.
-- 🔗 **[Muyu Instagram](https://muyu.lat/instagram):** Download Instagram Reels.
-- 🔗 **[Muyu Facebook](https://muyu.lat/facebook):** Download Facebook Reels.
-- 🔗 **[OlympusFace](https://muyu.lat:8443/):** A facial recognition and registration demo.
+This space is where I experiment, build in public, and contribute back to the community. 🚀
 
 ---
 
-### 🎯 Fun Facts About Me
-- 🎓 **Education:** Software Engineering Graduate
-- 🎮 **Hobbies:** Gamer at heart
-- 📸 **Interests:** Passionate about photography
-- 🎵 **Music Enthusiast:** Music fuels my creativity
+## 🛠️ What I Work With
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-### 💡 Support My Work
-If you find my projects useful, consider giving them a ⭐ or following me for updates! 🚀
+## 🔬 Currently Exploring
+
+- 🤖 **Generative AI** — Building LLM-powered tools and AI-driven workflows
+- ☁️ **Cloud Architecture** — Designing resilient, event-driven systems on Azure
+- 🧩 **Developer Tools** — Creating open tools that make engineers' lives easier
+- 🔐 **Cloud Security** — Exploring zero-trust and secure-by-design patterns
 
 ---
 
-### 📩 Contact & Resume
-📬 **Let's Connect!**
-- 📧 Email: **franklin.asto.leon@gmail.com**
-- 💼 LinkedIn: [Franklin Ruiz Asto Leon](https://www.linkedin.com/in/franklin-ruiz-asto-leon/)
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <br/>
+      <b>🏛️ Arcto</b>
+      <br/><br/>
+      <sub>Design and visualize software architecture diagrams with clarity and precision</sub>
+      <br/><br/>
+      <a href="https://franklinruiz.github.io/arcto/">
+        <img src="https://img.shields.io/badge/Live_Demo-7F77DD?style=flat-square&logo=githubpages&logoColor=white"/>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <br/>
+      <b>📋 Scrum Tracker</b>
+      <br/><br/>
+      <sub>Agile sprint management tool for high-performance engineering teams</sub>
+      <br/><br/>
+      <a href="https://franklinruiz.github.io/scrum-tracker/">
+        <img src="https://img.shields.io/badge/Live_Demo-7F77DD?style=flat-square&logo=githubpages&logoColor=white"/>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <br/>
+      <b>🗄️ Schema</b>
+      <br/><br/>
+      <sub>Visual ERD modeler for designing and documenting database schemas</sub>
+      <br/><br/>
+      <a href="https://franklinruiz.github.io/astodb/">
+        <img src="https://img.shields.io/badge/Live_Demo-7F77DD?style=flat-square&logo=githubpages&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=FranklinRuiz&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranklinRuiz&theme=midnight_purple)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+*If something I built helped you, leave a ⭐ — it means a lot!*
+<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-ruiz-asto-leon/)
+
+</div>
