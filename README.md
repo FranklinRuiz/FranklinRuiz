@@ -49,34 +49,45 @@ This space is where I experiment, build in public, and contribute back to the co
 ---
 
 ## 🚀 Featured Projects
-
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <br/>
       <b>🏛️ Arcto</b>
       <br/><br/>
-      <sub>Design and visualize software architecture diagrams with clarity and precision</sub>
+      <sub>Design and visualize software architecture diagrams with clarity and precision.</sub>
       <br/><br/>
       <a href="https://franklinruiz.github.io/arcto/">
         <img src="https://img.shields.io/badge/Live_Demo-7F77DD?style=flat-square&logo=githubpages&logoColor=white"/>
       </a>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
+      <br/>
+      <b>🎬 Flow Sketch</b>
+      <br/><br/>
+      <sub>Animate Excalidraw diagrams exported as SVG with smooth path, dash and flow animations.</sub>
+      <br/><br/>
+      <a href="https://franklinruiz.github.io/flow-sketch/">
+        <img src="https://img.shields.io/badge/Live_Demo-7F77DD?style=flat-square&logo=githubpages&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <br/>
       <b>📋 Scrum Tracker</b>
       <br/><br/>
-      <sub>Agile sprint management tool for high-performance engineering teams</sub>
+      <sub>Agile sprint management tool for high-performance engineering teams.</sub>
       <br/><br/>
       <a href="https://franklinruiz.github.io/scrum-tracker/">
         <img src="https://img.shields.io/badge/Live_Demo-7F77DD?style=flat-square&logo=githubpages&logoColor=white"/>
       </a>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <br/>
       <b>🗄️ Schema</b>
       <br/><br/>
-      <sub>Visual ERD modeler for designing and documenting database schemas</sub>
+      <sub>Visual ERD modeler for designing and documenting database schemas.</sub>
       <br/><br/>
       <a href="https://franklinruiz.github.io/astodb/">
         <img src="https://img.shields.io/badge/Live_Demo-7F77DD?style=flat-square&logo=githubpages&logoColor=white"/>
