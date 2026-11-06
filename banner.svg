@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Franklin Ruiz — Solution Architect, Software Engineer, AI Builder">
+  <title>Franklin Ruiz — Solution Architect · Software Engineer · AI Builder</title>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#232a33"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="350" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="350" fill="#0d1117"/>
+    <rect width="1200" height="350" fill="url(#dots)"/>
+    <rect x="0.5" y="0.5" width="1199" height="349" rx="14" fill="none" stroke="#30363d"/>
+  </g>
+
+  <!-- terminal -->
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+    <rect x="40" y="30" width="620" height="290" rx="10" fill="#161b22" stroke="#30363d"/>
+    <path d="M40 62 H660" stroke="#30363d"/>
+    <circle cx="62" cy="46" r="5" fill="#30363d"/>
+    <circle cx="80" cy="46" r="5" fill="#30363d"/>
+    <circle cx="98" cy="46" r="5" fill="#30363d"/>
+    <text x="350" y="51" text-anchor="middle" font-size="13" fill="#7d8590">franklin@github: ~</text>
+
+    <text x="64" y="96" font-size="16" fill="#e6edf3"><tspan fill="#3fb950">$</tspan> whoami
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.9;1" dur="0.5s" fill="freeze"/></text>
+    <text x="64" y="140" font-size="38" font-weight="700" fill="#ffffff">Franklin Ruiz
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.9;1" dur="1s" fill="freeze"/></text>
+    <text x="64" y="182" font-size="16" fill="#e6edf3"><tspan fill="#3fb950">$</tspan> cat role.txt
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.9;1" dur="1.5s" fill="freeze"/></text>
+    <text x="64" y="208" font-size="15" fill="#a78bfa">Solution Architect · Software Engineer · AI Builder
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.9;1" dur="2s" fill="freeze"/></text>
+    <text x="64" y="248" font-size="16" fill="#e6edf3"><tspan fill="#3fb950">$</tspan> ls ./stack
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.9;1" dur="2.5s" fill="freeze"/></text>
+    <text x="64" y="274" font-size="14" fill="#9198a1" xml:space="preserve">java  spring  node  ts  angular  azure  docker  k8s
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.9;1" dur="3s" fill="freeze"/></text>
+    <text x="64" y="304" font-size="16" fill="#e6edf3"><tspan fill="#3fb950">$</tspan> <tspan fill="#a78bfa">▍<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.9;1" dur="3.5s" fill="freeze"/></text>
+  </g>
+
+  <!-- architecture sketch -->
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13">
+    <text x="700" y="44" fill="#7d8590">// system context</text>
+
+    <g fill="none" stroke="#a78bfa" stroke-width="1.6" stroke-dasharray="4 6">
+      <path d="M820 175 H860"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="0.8s" repeatCount="indefinite"/></path>
+      <path d="M980 175 C1005 175, 1005 85, 1030 85"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="0.8s" repeatCount="indefinite"/></path>
+      <path d="M980 175 H1030"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="0.8s" repeatCount="indefinite"/></path>
+      <path d="M980 175 C1005 175, 1005 265, 1030 265"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="0.8s" repeatCount="indefinite"/></path>
+    </g>
+    <g fill="none" stroke="#3d444d" stroke-width="1.4" stroke-dasharray="3 5">
+      <path d="M1090 105 V155"/>
+      <path d="M1090 195 V245"/>
+    </g>
+
+    <g>
+      <rect x="700" y="155" width="120" height="40" rx="8" fill="#161b22" stroke="#30363d"/>
+      <text x="760" y="180" text-anchor="middle" fill="#e6edf3">client</text>
+
+      <rect x="860" y="155" width="120" height="40" rx="8" fill="#1d1a33" stroke="#a78bfa"/>
+      <text x="920" y="180" text-anchor="middle" fill="#e6edf3">api-gateway</text>
+
+      <rect x="1030" y="65" width="120" height="40" rx="8" fill="#161b22" stroke="#30363d"/>
+      <text x="1090" y="90" text-anchor="middle" fill="#e6edf3">auth-svc</text>
+
+      <rect x="1030" y="155" width="120" height="40" rx="8" fill="#161b22" stroke="#30363d"/>
+      <text x="1090" y="180" text-anchor="middle" fill="#e6edf3">orders-svc</text>
+
+      <rect x="1030" y="245" width="120" height="40" rx="8" fill="#1d1a33" stroke="#a78bfa"/>
+      <text x="1090" y="270" text-anchor="middle" fill="#e6edf3">llm-agent</text>
+    </g>
+
+    <text x="700" y="312" fill="#7d8590">cloud-native · event-driven · ai</text>
+  </g>
+</svg>
